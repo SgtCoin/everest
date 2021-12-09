@@ -1,4 +1,4 @@
-## Welcome to the Everest project. We seek to gather and synthesize the knowledge contained within our community and engineering resources. Each entry in Everest comes vetted by our support team. All entries are stored in our Github Wiki page.
+## Welcome to the Everest project. We seek to gather and synthesize the knowledge contained within our community and engineering resources. Each entry in Everest comes vetted by our support team. All entries are stored in our [Github Wiki](https://github.com/SgtCoin/everest/wiki) page.
 
 ## How to contribute:
 
