@@ -3,3 +3,5 @@ title: Everest
 description: A place to search for other peoples problems
 markdown: kramdown
 
+
+theme: jekyll-theme-midnight
