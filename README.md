@@ -3,7 +3,7 @@
 ## How to contribute:
 
 * Clone the wiki https://github.com/SgtCoin/everest.wiki.git
-* Make edits or additions as needed. 
+* Create new articles, make edits or additions as needed. 
 * Create a pull request to have your entry reviewed and added to Everest.
 
 
