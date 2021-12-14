@@ -14,4 +14,4 @@
 * Filenames should have spaces replaced with a - (How-do-I-do-x.md)
 * All entries should have a clear problem statement and a clear path to resolution. 
 
-bah bah
+
