@@ -1,6 +1,4 @@
-remote_theme: pages-themes/midnight@v0.2.0
 title: Everest
 description: A place to search for other peoples problems
 markdown: GFM
-
 theme: jekyll-theme-hacker
