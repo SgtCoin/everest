@@ -1,0 +1,17 @@
+# Problem:
+
+What is the 'parallel-fetch-limit' parameter in lotus-seal-worker run command?
+
+# Environment:
+
+* Mainnet
+* Calibnet
+* Devnet
+
+# Resolution:
+
+The 'parallel-fetch-limit' is the amount of fetch processes one node can do. In this example, lets say that node A is doing PC1 jobs and once that stage completes, the results can be fetched by node B. If node B has a fetch limit of 5, only 5 results will be gathered by node B from node A. 
+
+## Extras:
+
+https://filecoinproject.slack.com/archives/CPFTWMY7N/p1638939064388700
